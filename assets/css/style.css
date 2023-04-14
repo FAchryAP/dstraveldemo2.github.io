@@ -1793,6 +1793,10 @@ section {
   color: #fff;
 }
 
+#footer .cc {
+  float: left;
+}
+
 #footer .copyright {
   float: left;
 }
@@ -1812,6 +1816,7 @@ section {
     padding-bottom: 20px;
   }
 
+  #footer .cc
   #footer .copyright,
   #footer .credits {
     text-align: center;
